@@ -15,7 +15,8 @@ AtliQ Mart, a growing FMCG manufacturer headquartered in Gujarat, India, is curr
 - LIFR%: 65.96%
 
 ## Data Model
-![Image Alt text](/images/Data_Model_image.jpg)
+![Image Alt text](/images/Data_Model_image)
+
 ## Summary
 
 The key metrics indicate poor customer service in terms of delivery. The delivery performance for Coolblue, Acclaimed Stores, and Lotus Mart is concerning, with major issues in on-time delivery and mediocre in full delivery. Dairy has been the most ordered category with almost 10.5 Million units which is around 78% of all units ordered. For CoolBlue and Elite mart, there is a need to look at the Vadodra branch. For Info store, Surat was the branch and for Soferoz, it was Ahmedabad. AM Milk 500, AM Butter 500, and AM Curd 50 have high demand but low LIFR%, indicating a need to focus on these products.
