@@ -2,12 +2,13 @@
 
 ## Problem Statement
 
-AtliQ Mart, a growing FMCG manufacturer headquartered in Gujarat, India, is currently operational in three cities: Surat, Ahmedabad, and Vadodara. The company plans to expand to other metros/Tier 1 cities in the next 2 years. However, AtliQ Mart is facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. The management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the 'On time' and 'In Full' delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
+* AtliQ Mart, a growing FMCG manufacturer headquartered in Gujarat, India, is currently operational in three cities: Surat, Ahmedabad, and Vadodara. The company plans to expand to other metros/Tier 1 cities in the next 2 years. However, AtliQ Mart is facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service.
+* The management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the 'On time' and 'In Full' delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
 
 ## Steps Followed
 
 ### Understanding Problem:
-* Defined the scope of the analysis, focusing on attendance patterns, retention strategies, and sick leave percentages.
+* Defined the scope of the analysis, focusing on key metrics like OT%, IF%, LIFR%,etc.
 ### Data Gathering and Transformation:
 * Collected the supply chain data from the provided Excel file.
 * Utilized ETL operations to clean and transform the data into a suitable format for analysis.
