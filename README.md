@@ -31,6 +31,9 @@
 ## Data Model
 ![Image Alt text](/images/Data_Model_image)
 
+## Project Presentation Report
+(https://github.com/Swam80/Supply-Chain-FMCG-project_codebasics/blob/main/Supply_chain_FMCG_presentation.pdf)
+
 ## Summary
 
 * The key metrics indicate poor customer service in terms of delivery.
