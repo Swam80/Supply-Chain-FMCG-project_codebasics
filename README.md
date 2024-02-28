@@ -32,7 +32,7 @@
 ![Image Alt text](/images/Data_Model_image)
 
 ## Project Presentation Report
-(Report)[https://github.com/Swam80/Supply-Chain-FMCG-project_codebasics/blob/main/Supply_chain_FMCG_presentation.pdf]
+[Report](https://github.com/Swam80/Supply-Chain-FMCG-project_codebasics/blob/main/Supply_chain_FMCG_presentation.pdf)
 
 ## Summary
 
