@@ -31,6 +31,9 @@
 ## Data Model
 ![Image Alt text](/images/Data_Model_image)
 
+## Dashboard Link
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBlNjBlMWEtYTAwYy00NjY5LTlkMjMtMjM4Y2VkZGQyM2YyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectione07ed2c3b9392d734223)
+
 ## Project Presentation Report
 [Report](https://github.com/Swam80/Supply-Chain-FMCG-project_codebasics/blob/main/Supply_chain_FMCG_presentation.pdf)
 
